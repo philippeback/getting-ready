@@ -36,7 +36,7 @@ Install the usual suspects for node based work
 ----------------------------------------------
 
     npm -g install bower
-    npm -g install grunt
+    npm -g install grunt-cli
 
 Install amber-cli
 -----------------
@@ -48,3 +48,4 @@ If you want to modify Amber, you would clone the Amber Github repo.
 
 This should give you version 0.13
 
+_Note: To save disk space, you can install all three by single `npm install bower grunt-cli amber-cli`._
