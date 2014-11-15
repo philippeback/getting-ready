@@ -5,7 +5,7 @@ Create a place where you application will live:
 
     mkdir gdev
     cd gdev
-    amber init gdev
+    amber init
 
 Start the server
 
